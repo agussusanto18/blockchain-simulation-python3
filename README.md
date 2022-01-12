@@ -1,4 +1,4 @@
-# Simulasi blockchain menggunakan Python3 #
+# Simulasi blockchain menggunakan Python3 dan Flask#
 
 ## Api endpoints
 
